@@ -1,0 +1,30 @@
+[technote]
+id = "SQR-043"
+series_id = "SQR"
+canonical_url = "https://sqr-043.lsst.io/"
+github_url = "https://github.com/lsst-sqre/sqr-043"
+github_default_branch = "main"
+organization.name = "Vera C. Rubin Observatory"
+organization.ror = "https://ror.org/048g3cy84"
+license.id = "CC-BY-4.0"
+[[technote.authors]]
+name = {given = "Jonathan", family = "Sick"}
+internal_id = "sickj"
+orcid = "https://orcid.org/0000-0003-3001-676X"
+[[technote.authors.affiliations]]
+name = "J.Sick Codes Inc."
+internal_id = "JSickCodes"
+
+[[technote.authors.affiliations]]
+name = "NSF-DOE Vera C. Rubin Observatory / NSF NOIRLab"
+internal_id = "RubinObs"
+ror = "https://ror.org/048g3cy84"
+
+[[technote.authors]]
+name = {given = "Adam J.", family = "Thornton"}
+internal_id = "thorntonaj"
+orcid = "https://orcid.org/0000-0001-9342-6032"
+[[technote.authors.affiliations]]
+name = "NSF-DOE Vera C. Rubin Observatory / NSF NOIRLab"
+internal_id = "RubinObs"
+ror = "https://ror.org/048g3cy84"
